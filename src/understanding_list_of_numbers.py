@@ -7,7 +7,7 @@
 
 """
 
-# La funcion range() gener una lista de numeros en un rango especifico.
+# La funcion range() genera una lista de numeros en un rango especifico.
 # Por ejemplo, numero del 0 al 9
 numeros = list(range(10)) # List para tipo lista
 print(numeros) # Salida de los numeros
