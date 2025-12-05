@@ -143,3 +143,7 @@ que el usuario ingrese para su realizacion.
 4) W3 Schools: https://www.w3schools.com/python/python_while_loops.asp
 5) Loops while y for en Python: ¿Qué son y cómo usarlos?: https://platzi.com/blog/loops-while-y-for-en-python-que-son-y-como-usarlos/
 """
+# URL:
+"""
+https://github.com/JordhanAlexander2205/Meto/tree/main/src
+"""
