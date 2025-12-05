@@ -271,3 +271,7 @@ Resultado esperado: "Item not found".
 4) ¿Cómo hacer un CRUD (Guardar, Mostrar, Modificar y Eliminar) con Python y MySQL? FÁCIL Y SENCILLO: https://www.youtube.com/watch?v=Ro2m95m8QkI
 5) COMO HACER UN CRUD CON PYTHON Y MYSQL UTILIZANDO FLASK | COMPLETO: https://www.youtube.com/watch?v=QS2uiRedr1U
 """
+# URL:
+"""
+https://github.com/JordhanAlexander2205/Meto/tree/main/src
+"""
